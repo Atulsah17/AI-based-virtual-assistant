@@ -258,7 +258,7 @@ def command():
 
 def greeting():
     speak("Hello sir!.")
-    speak("I am your assistant. khumsi")
+    speak("I am your assistant. jarvis")
     time()
     date()
 
